@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Portfolio</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="Untitled-2.css">
+</head>
+<!--<body background="c:\College\innogeeks\Portfolio\bg.jpg">-->
+    
+    <div class="main">
+        <div class="navbar">
+            <img src="c:\College\innogeeks\Portfolio\bg.jpg" class="logo">
+
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">SKILLS</a></li>
+                <li><a href="#">MY WORKS</a></li>
+                <li><a href="#">CONTACT</a></li>
+            </ul>
+        </div>
+
+        <div class="info">
+            <h3>Hi, I'm <span>Pragati Gupta</span>.</h3>
+            <h1><span>W</span>EB <span>D</span>ESIGNER</h1>
+            <h3>Web designer and developer from Jhansi,UP. 
+                I am a  enthusiast coder and<br>i have worked on web development and made a game using in python in school.<br>I want to create innovative websites and work on development ideas and to <br> new domains..</h3>
+                <a href="#">Looking for intership</a>
+        </div>
+
+        <div class="image">
+            <img src="C:\PRAGATI\PHOTOS\ME\IMG-20220615-WA00352.jpg" class="girl">
+        </div>
+
+        <div class="icons">
+            <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+            <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+            <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+            <br>
+            <BR>
+                <BR><CENTRE>
+            <A href="https://www.linkedin.com/in/pragati-gupta-632b45335/"><CENTRE><IMG SRC="c:\College\innogeeks\Portfolio\linkedin-with-circle-icon-2048x2048-np6yltn1.png" HEIGHT=60 WIDTH=60></CENTRE> PROFILE LINK</A>
+            </CENTRE>
+            <br>
+            <a href ="https://github.com/Pragatigupta2508"><centre><img src ="c:\College\innogeeks\Portfolio\25231.png" height=60 width =60></centre>Github</a>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</body>
+</html>
